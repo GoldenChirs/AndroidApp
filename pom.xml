@@ -30,6 +30,7 @@
                 <configuration>
                     <sdk>
                         <platform>17</platform>
+                        <path>/Users/deengao/Desktop/adt-bundle-mac-x86_64-20130522/sdk</path>
                     </sdk>
                     <deleteConflictingFiles>true</deleteConflictingFiles>
                     <undeployBeforeDeploy>true</undeployBeforeDeploy>
